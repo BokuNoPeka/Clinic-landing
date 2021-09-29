@@ -1,0 +1,8 @@
+.appointment-form{
+background-color: #FFFFFF;
+border-radius: 10px;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 40px;
+}

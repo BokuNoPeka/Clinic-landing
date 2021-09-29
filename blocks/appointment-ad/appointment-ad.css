@@ -1,0 +1,9 @@
+.appointment-ad{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 2;
+    padding: 0 196px 52px 198px;
+
+}
