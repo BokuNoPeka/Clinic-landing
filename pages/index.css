@@ -39,3 +39,20 @@
 @import url(../blocks/appointment-ad/__text/appointment-ad__text.css);
 @import url(../blocks/appointment-ad/__container/appointment-ad__container.css);
 
+/*==========service=============*/
+@import url(../blocks/service/service.css);
+@import url(../blocks/service/__card-content/service__card-content.css);
+@import url(../blocks/service/__card-header/service__card-header.css);
+@import url(../blocks/service/__card-icon/service__card-icon.css);
+@import url(../blocks/service/__card-item/service__card-item.css);
+@import url(../blocks/service/__card-link/service__card-link.css);
+@import url(../blocks/service/__card-list/service__card-list.css);
+@import url(../blocks/service/__card-title/service__card-title.css);
+@import url(../blocks/service/__card/service__card.css);
+@import url(../blocks/service/__cards/service__cards.css);
+
+/*==========content-title=============*/
+@import url(../blocks/content-title/content__title.css);
+
+/*==========content-text=============*/
+@import url(../blocks/content-text/content__text.css);

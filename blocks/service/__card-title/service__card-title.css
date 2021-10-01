@@ -1,0 +1,13 @@
+.service__card-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    max-width: 142px;
+}

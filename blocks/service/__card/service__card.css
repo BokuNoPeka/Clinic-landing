@@ -1,0 +1,8 @@
+.service__card{
+    margin-right: 30px;
+    background: #D9EDFF;
+}
+
+.service__card:last-of-type{
+    margin: 0;
+}
