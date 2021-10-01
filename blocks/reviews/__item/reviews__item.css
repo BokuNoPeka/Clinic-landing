@@ -10,6 +10,9 @@
     border: 1px solid #DEDEDE;
     margin-right: 32px;
     padding: 30px 50px 30px 35px;
+    box-sizing: border-box;
+    max-width: 328px;
+    border-radius: 5px;
 }
 
 .reviews__item:last-of-type {

@@ -10,6 +10,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
 
+/*==========flex-container=============*/
+@import url(../blocks/flex-container/flex-container.css);
+
 
 /*==========header=============*/
 @import url(../blocks/header/header.css);
