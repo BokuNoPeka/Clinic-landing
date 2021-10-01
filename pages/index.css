@@ -56,3 +56,11 @@
 
 /*==========content-text=============*/
 @import url(../blocks/content-text/content__text.css);
+
+/*==========reviews=============*/
+@import url(../blocks/reviews/reviews.css);
+@import url(../blocks/reviews/__items/reviews__items.css);
+@import url(../blocks/reviews/__reviews__stars-container/reviews__stars-container.css);
+@import url(../blocks/reviews/__reviews_icon/reviews__icon.css);
+@import url(../blocks/reviews/__star-item/reviews__star-item.css);
+@import url(../blocks/reviews/__item/reviews__item.css);
