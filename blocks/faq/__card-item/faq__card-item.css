@@ -1,0 +1,11 @@
+.faq__card-item {
+    width: 100%;
+    max-width: 334px;
+    background: #FFFFFF;
+    border-radius: 9px;
+    padding: 26px 32px 26px 32px;
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+
+}

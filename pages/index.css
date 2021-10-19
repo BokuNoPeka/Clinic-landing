@@ -67,3 +67,13 @@
 @import url(../blocks/reviews/__reviews_icon/reviews__icon.css);
 @import url(../blocks/reviews/__star-item/reviews__star-item.css);
 @import url(../blocks/reviews/__item/reviews__item.css);
+
+/*==========faq=============*/
+@import url(../blocks/faq/__card-item/faq__card-item.css);
+@import url(../blocks/faq/__cards/faq__cards.css);
+@import url(../blocks/faq/__content/faq__content.css);
+@import url(../blocks/faq/__icon/faq__icon.css);
+@import url(../blocks/faq/__text/faq__text.css);
+@import url(../blocks/faq/__title/faq__title.css);
+@import url(../blocks/faq/faq.css);
+
