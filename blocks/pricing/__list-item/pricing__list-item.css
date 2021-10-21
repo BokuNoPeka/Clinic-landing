@@ -1,0 +1,10 @@
+.pricing__list-item{
+    max-width: 248px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+.pricing__list-item:last-of-type{
+    margin-bottom: 35px;
+}

@@ -77,3 +77,21 @@
 @import url(../blocks/faq/__title/faq__title.css);
 @import url(../blocks/faq/faq.css);
 
+/*==========pricing=============*/
+@import url(../blocks/pricing/pricing.css);
+@import url(../blocks/pricing/__value/pricing__value.css);
+@import url(../blocks/pricing/__value-container/pricing__value-container.css);
+@import url(../blocks/pricing/__title/pricing__title.css);
+@import url(../blocks/pricing/__text/pricing__text.css);
+@import url(../blocks/pricing/__period/pricing__perod.css);
+@import url(../blocks/pricing/__list/pricing__list.css);
+@import url(../blocks/pricing/__list-item/pricing__list-item.css);
+@import url(../blocks/pricing/__list-item-text/pricing__list-item-text.css);
+@import url(../blocks/pricing/__list-img/pricing__list-img.css);
+@import url(../blocks/pricing/__currency/pricing__currency.css);
+@import url(../blocks/pricing/__cards/pricing__cards.css);
+@import url(../blocks/pricing/__card/pricing__card.css);
+@import url(../blocks/pricing/__card/_main/pricing__card_main.css);
+@import url(../blocks/pricing/__list-item-text/_white/pricing__list-item-text_white.css);
+@import url(../blocks/pricing/__text/_white/pricing__text_white.css);
+@import url(../blocks/pricing/__title/_white/priсing__title_white.css);

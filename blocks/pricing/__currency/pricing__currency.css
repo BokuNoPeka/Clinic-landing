@@ -1,0 +1,12 @@
+.pricing__currency {
+    margin: 0;
+    padding: 0;
+    max-width: 12px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #23A6F0;
+}

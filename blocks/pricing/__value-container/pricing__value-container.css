@@ -1,0 +1,9 @@
+.pricing__value-container {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 176px;
+    box-sizing: border-box;
+    max-width: 192px;
+}
