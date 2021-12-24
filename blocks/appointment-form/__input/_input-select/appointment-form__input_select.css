@@ -1,0 +1,5 @@
+.appointment-form__input_select {
+    appearance: none;
+    background: url(../../../../images/select-arrow.svg) no-repeat right;
+    background-position-x: calc(100% - 20px);
+}

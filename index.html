@@ -44,13 +44,17 @@
                 <form class="appointment-form">
                     <span class="appointment-form__title">Book Appointment</span>
                     <span class="appointment-form__label">Name *</span>
-                    <input class="appointment-form__input">
+                    <input class="appointment-form__input" placeholder="Full Name * ">
                     <span class="appointment-form__label">Email address *</span>
-                    <input class="appointment-form__input">
+                    <input class="appointment-form__input" placeholder="example@gmail.com  ">
                     <span class="appointment-form__label">Departement *</span>
-                    <select class="appointment-form__input"></select>
+                    <select class="appointment-form__input appointment-form__input_select">
+                        <option value="" disabled selected hidden>Please Select</option>
+                    </select>
                     <span class="appointment-form__label">Time *</span>
-                    <select class="appointment-form__input"></select>
+                    <select class="appointment-form__input appointment-form__input_select">
+                        <option value="" disabled selected hidden>4:00 Available</option>
+                    </select>
                     <button class="button button_form">Book Appointment</button>
                 </form>
             </section>
