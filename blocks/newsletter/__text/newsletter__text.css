@@ -1,0 +1,11 @@
+.newsletter__text {
+    max-width: 440px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin: 0;
+}

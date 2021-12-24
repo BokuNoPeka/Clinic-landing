@@ -29,6 +29,7 @@
 @import url(../blocks/button/_form/button_form.css);
 @import url(../blocks/button/_ad-blue/button_ad-blue.css);
 @import url(../blocks/button/_ad-transparent/button_ad-transparent.css);
+@import url(../blocks/button/_newsletter/button_newsletter.css);
 
 /*==========appointment-form=============*/
 @import url(../blocks/appointment-form/appointment-form.css);
