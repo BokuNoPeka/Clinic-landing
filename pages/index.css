@@ -103,3 +103,17 @@
 @import url(../blocks/newsletter/__title/newsletter__title.css);
 @import url(../blocks/newsletter/__text/newsletter__text.css);
 @import url(../blocks/newsletter/__email-input/newsletter__email-input.css);
+
+/*==========footer=============*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__link/footer__ink.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__social-item/footer__social-item.css);
+@import url(../blocks/footer/__social-link/footer__spcial-link.css);
+@import url(../blocks/footer/__social-list/footer__social-list.css);
+@import url(../blocks/footer/__text-container/footer__text-container.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__title/footer__title.css);
+
