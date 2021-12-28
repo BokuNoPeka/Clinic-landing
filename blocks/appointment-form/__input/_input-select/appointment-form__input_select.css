@@ -3,4 +3,5 @@
     background: url(../../../../images/select-arrow.svg) no-repeat right #F9F9F9;;
     background-position-x: calc(100% - 20px);
     cursor: pointer;
+    color: #737373;
 }
