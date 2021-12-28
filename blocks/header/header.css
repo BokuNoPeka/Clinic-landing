@@ -1,8 +1,12 @@
-.header{
-    position: relative;
-    padding: 20px 196px 84px 202px;
+.header {
+    width: 100%;
+    max-width: 1440px;
+    padding-bottom: 52px;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    z-index: 2;
+    background-image: url(../../../images/Header-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }

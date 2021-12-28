@@ -22,6 +22,7 @@
 @import url(../blocks/header/__nav-link/header__nav-link.css);
 @import url(../blocks/header/__nav-item/header__nav-item.css);
 @import url(../blocks/header/__logo-main-menu/header__logo-main-menu.css);
+@import url(../blocks/header/__wrapper/header__wrapper.css);
 
 /*==========buttons=============*/
 @import url(../blocks/button/button.css);
