@@ -1,6 +1,5 @@
 .header {
     width: 100%;
-    max-width: 1440px;
     padding-bottom: 52px;
     display: flex;
     flex-direction: column;
@@ -10,3 +9,4 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
