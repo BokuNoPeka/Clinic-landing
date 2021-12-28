@@ -7,5 +7,10 @@
     letter-spacing: 0.2px;
     color: #23A6F0;
     margin-left: 50px;
+    text-decoration: none;
+    transition: opacity .3s ease;
+}
 
+.service__card-link:hover {
+    opacity: 0.6;
 }

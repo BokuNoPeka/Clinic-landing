@@ -9,4 +9,10 @@
     color: #FFFFFF;
     border: none;
     outline: none;
+    cursor: pointer;
+    transition: opacity .3s ease;
+}
+
+.button:hover {
+    opacity: .6;
 }
