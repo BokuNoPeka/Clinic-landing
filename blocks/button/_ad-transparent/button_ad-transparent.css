@@ -6,3 +6,9 @@
     box-sizing: border-box;
     border-radius: 37px;
 }
+
+@media screen and (max-width: 986px) {
+    .button_ad-transparent {
+        height: 42px;
+    }
+}

@@ -10,3 +10,11 @@
     letter-spacing: 0.2px;
     color: #FFFFFF;
 }
+
+
+@media screen and (max-width: 986px) {
+    .appointment-ad__text {
+        max-width: 302px;
+        text-align: center;
+    }
+}

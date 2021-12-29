@@ -11,3 +11,13 @@
     color: #FFFFFF;
 
 }
+
+@media screen and (max-width: 986px) {
+    .appointment-ad__title {
+        max-width: 314px;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 57px;
+        text-align: center;
+    }
+}

@@ -4,3 +4,9 @@
     align-items: flex-start;
     padding: 0px;
 }
+
+@media screen and (max-width: 986px) {
+    .appointment-ad__container {
+        align-items: center;
+    }
+}

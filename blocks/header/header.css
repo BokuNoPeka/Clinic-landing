@@ -10,3 +10,10 @@
     background-repeat: no-repeat;
 }
 
+@media screen and (max-width: 986px) {
+    .header {
+        background-image: none;
+        padding: 0;
+    }
+}
+

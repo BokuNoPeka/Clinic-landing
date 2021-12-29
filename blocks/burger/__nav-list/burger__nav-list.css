@@ -1,4 +1,6 @@
 .burger__nav-list {
+    width: 100%;
+    max-width: 124px;
     list-style: none;
     margin: 0;
     padding: 0;

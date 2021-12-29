@@ -10,3 +10,10 @@
     letter-spacing: 0.2px;
     color: #252B42;
 }
+
+@media screen and (max-width: 986px) {
+    .content__title {
+        max-width: 314px;
+        text-align: center;
+    }
+}

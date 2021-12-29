@@ -5,3 +5,11 @@
     border-radius: 37px;
     margin-right: 10px;
 }
+
+@media screen and (max-width: 986px) {
+    .button_ad-blue {
+        height: 42px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
