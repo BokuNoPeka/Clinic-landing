@@ -17,7 +17,5 @@
     .pricing__card {
         margin-top: 30px;
     }
-    .pricing__card:last-of-type{
-        margin-top: 0;
-    }
 }
+

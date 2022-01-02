@@ -3,7 +3,7 @@
     height: 14px;
     border: none;
     outline: none;
-    background: url(../../../images/mobile-header-menu.svg);
+    background: url(../../../images/mobile-header-menu-close.svg);
     cursor: pointer;
     transition: opacity .3s ease;
     display: none;
