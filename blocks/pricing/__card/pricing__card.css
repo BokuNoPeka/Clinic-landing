@@ -12,3 +12,12 @@
     flex-direction: column;
 
 }
+
+@media screen and (max-width: 986px) {
+    .pricing__card {
+        margin-top: 30px;
+    }
+    .pricing__card:last-of-type{
+        margin-top: 0;
+    }
+}

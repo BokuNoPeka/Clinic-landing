@@ -12,3 +12,8 @@
     letter-spacing: 0.2px;
     color: #737373;
 }
+@media screen and (max-width: 986px) {
+    .newsletter__email-input {
+        width: 198px;
+    }
+}

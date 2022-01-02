@@ -16,3 +16,9 @@
         padding: 84px 0 114px 0;
     }
 }
+
+@media screen and (min-width: 987px) and (max-width: 1025px) {
+    .appointment-ad {
+        justify-content: space-around;
+    }
+}

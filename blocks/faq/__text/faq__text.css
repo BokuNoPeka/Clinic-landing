@@ -10,3 +10,11 @@
     padding: 0;
     margin-top: 5px;
 }
+
+@media screen and (max-width: 1061px) {
+    .faq__text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-height: 24px;
+    }
+}

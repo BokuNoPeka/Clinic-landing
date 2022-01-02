@@ -8,4 +8,9 @@
     letter-spacing: 0.2px;
     color: #737373;
     text-decoration: none;
+    transition: opacity .3s ease;
+}
+
+.burger__nav-link:hover {
+    opacity: 0.6;
 }

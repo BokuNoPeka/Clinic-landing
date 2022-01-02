@@ -5,3 +5,9 @@
     box-sizing: border-box;
     margin-top: 80px;
 }
+
+@media screen and (max-width: 986px) {
+    .reviews__items {
+        flex-direction: column;
+    }
+}

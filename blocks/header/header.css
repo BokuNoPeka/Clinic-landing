@@ -3,9 +3,8 @@
     padding-bottom: 52px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    background-image: url(../../../images/Header-background.jpg);
+    background-image: url(../../images/Header-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -16,4 +15,3 @@
         padding: 0;
     }
 }
-

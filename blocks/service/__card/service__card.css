@@ -1,8 +1,18 @@
-.service__card{
-    margin-right: 30px;
+.service__card {
+    margin-right: 2%;
     background: #D9EDFF;
 }
 
-.service__card:last-of-type{
+.service__card:last-of-type {
     margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .service__card {
+        margin: 0 0 30px 0;
+    }
+
+    .service__card:last-of-type {
+        margin: 0 0 30px 0;
+    }
 }

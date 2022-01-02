@@ -106,6 +106,7 @@
 @import url(../blocks/newsletter/__title/newsletter__title.css);
 @import url(../blocks/newsletter/__text/newsletter__text.css);
 @import url(../blocks/newsletter/__email-input/newsletter__email-input.css);
+@import url(../blocks/newsletter/__title-mobile/newsletter__title-mobile.css);
 
 /*==========footer=============*/
 @import url(../blocks/footer/footer.css);
